@@ -15,4 +15,4 @@
   However if you were to enter a date, a town, and then the wrong state, it will then just grab that state and ignore the first two constraints.
   
    ![Filter_no](https://github.com/Cyber-Wolfe/UFO_Sightings/blob/main/captures/Filter_no.PNG)
-  Two other recommendations I have for this though would be maybe embedded jpgs on the site of any photos taken by the witnesses of the UFO sightings I think that would be a good improvement to the site. As well as maybe instead of the text paragraph, a video or maybe a video with text of some introduction to aliens and UFOs in general would be a great thing to do.
+  Two other recommendations I have for this site would be embedded jpgs on the site of any photos taken by the witnesses of the UFO sightings I think that would be a good improvement to the site. It could help give the comments some more ground if the descriptions are poor. As well as maybe instead of the text paragraph, a video or maybe a video with text of some introduction to aliens and UFOs in general would be a great thing to do. It would give a more UFO investigative feel to the site instead of just a database.
