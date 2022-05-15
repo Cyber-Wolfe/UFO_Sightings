@@ -9,5 +9,7 @@
   
 ## Summary
 
-  The one glaring drawback that I worked to fix but couldn't was the filtering issue, funny enough it filters fine but has a hiccup. It does take the last inputted value as the filtering object.  So if you were to start from top to bottom of date, city, state, country, shape and comment, it does work. However if you were to enter a date, a town, and then the wrong state, it will then just grab that state and ignore the first two constraints.
+  The one glaring drawback that I worked to fix but couldn't was the filtering issue, funny enough it filters fine but has a hiccup. It does take the last inputted value as the filtering object.  So if you were to start from top to bottom of date, city, state, country, shape and comment, it does work. ![Filter_yes](https://github.com/Cyber-Wolfe/UFO_Sightings/blob/main/captures/Filter_yes.PNG)
+  However if you were to enter a date, a town, and then the wrong state, it will then just grab that state and ignore the first two constraints.
+   ![Filter_no](https://github.com/Cyber-Wolfe/UFO_Sightings/blob/main/captures/Filter_no.PNG)
   Two other recommendations I have for this though would be maybe embedded jpgs on the site of any photos taken by the witnesses of the UFO sightings I think that would be a good improvement to the site. As well as maybe instead of the text paragraph, a video or maybe a video with text of some introduction to aliens and UFOs in general would be a great thing to do.
