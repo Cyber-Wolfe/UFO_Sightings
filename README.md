@@ -1,5 +1,5 @@
 # UFO Sightings 
-See the UFOs for yourself here!: ![UFO_Sightings](https://cyber-wolfe.github.io/UFO_Sightings/)
+See the UFOs for yourself here!: [UFO_Sightings](https://cyber-wolfe.github.io/UFO_Sightings/)
 
 ## Overview
   The purpose of the analysis was to have a simple webpage display information of various UFO sightings throughout many different places. These are filtered according to shape, date, duration, and even some more custom exerpeinces as seen in the comment section. ![Example](https://github.com/Cyber-Wolfe/UFO_Sightings/blob/main/captures/Example.PNG)
